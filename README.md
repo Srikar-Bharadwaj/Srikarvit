@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srikar
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning vit vellore
-- 📫 How to reach me phone 8328463075
+- 👀 I’m interested in how the technology works!
+- 🌱 I’m currently learning Cybersecurity 
+- 📫 Reach me through phone +91 8328463075
 
 <!---
 Srikarvit/Srikarvit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
